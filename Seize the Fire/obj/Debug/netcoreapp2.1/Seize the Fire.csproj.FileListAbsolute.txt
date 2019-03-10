@@ -1,0 +1,11 @@
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\bin\Debug\netcoreapp2.1\Seize the Fire.deps.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\bin\Debug\netcoreapp2.1\Seize the Fire.runtimeconfig.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\bin\Debug\netcoreapp2.1\Seize the Fire.runtimeconfig.dev.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\bin\Debug\netcoreapp2.1\Seize the Fire.dll
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\bin\Debug\netcoreapp2.1\Seize the Fire.pdb
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\obj\Debug\netcoreapp2.1\Seize the Fire.csprojAssemblyReference.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\obj\Debug\netcoreapp2.1\Seize the Fire.csproj.CoreCompileInputs.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\obj\Debug\netcoreapp2.1\Seize the Fire.AssemblyInfoInputs.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\obj\Debug\netcoreapp2.1\Seize the Fire.AssemblyInfo.cs
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\obj\Debug\netcoreapp2.1\Seize the Fire.dll
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\Seize the Fire\obj\Debug\netcoreapp2.1\Seize the Fire.pdb
