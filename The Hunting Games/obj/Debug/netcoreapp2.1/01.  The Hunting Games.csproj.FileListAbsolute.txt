@@ -1,0 +1,11 @@
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\bin\Debug\netcoreapp2.1\01.  The Hunting Games.deps.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\bin\Debug\netcoreapp2.1\01.  The Hunting Games.runtimeconfig.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\bin\Debug\netcoreapp2.1\01.  The Hunting Games.runtimeconfig.dev.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\bin\Debug\netcoreapp2.1\01.  The Hunting Games.dll
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\bin\Debug\netcoreapp2.1\01.  The Hunting Games.pdb
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\obj\Debug\netcoreapp2.1\01.  The Hunting Games.csprojAssemblyReference.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\obj\Debug\netcoreapp2.1\01.  The Hunting Games.csproj.CoreCompileInputs.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\obj\Debug\netcoreapp2.1\01.  The Hunting Games.AssemblyInfoInputs.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\obj\Debug\netcoreapp2.1\01.  The Hunting Games.AssemblyInfo.cs
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\obj\Debug\netcoreapp2.1\01.  The Hunting Games.dll
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\01.  The Hunting Games\obj\Debug\netcoreapp2.1\01.  The Hunting Games.pdb
