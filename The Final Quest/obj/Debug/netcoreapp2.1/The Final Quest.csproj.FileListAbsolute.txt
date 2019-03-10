@@ -1,0 +1,11 @@
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\bin\Debug\netcoreapp2.1\The Final Quest.deps.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\bin\Debug\netcoreapp2.1\The Final Quest.runtimeconfig.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\bin\Debug\netcoreapp2.1\The Final Quest.runtimeconfig.dev.json
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\bin\Debug\netcoreapp2.1\The Final Quest.dll
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\bin\Debug\netcoreapp2.1\The Final Quest.pdb
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\obj\Debug\netcoreapp2.1\The Final Quest.csprojAssemblyReference.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\obj\Debug\netcoreapp2.1\The Final Quest.csproj.CoreCompileInputs.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\obj\Debug\netcoreapp2.1\The Final Quest.AssemblyInfoInputs.cache
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\obj\Debug\netcoreapp2.1\The Final Quest.AssemblyInfo.cs
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\obj\Debug\netcoreapp2.1\The Final Quest.dll
+C:\Users\boyan\Desktop\Softuni Курс\Technology Fundamentals with C#\Exam\exam\The Final Quest\obj\Debug\netcoreapp2.1\The Final Quest.pdb
